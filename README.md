@@ -12,4 +12,4 @@
 <img width="607" alt="아키텍처" src="https://user-images.githubusercontent.com/41987854/65307807-9bc51180-dbc3-11e9-8252-9582377e8f70.PNG">
 
 # 배포
-현재 이서버는 AWS의 EC2서버에서 동작되고있습니다. (buggio.shop)
+현재 이서버는 AWS의 EC2서버에서 동작되고있습니다. (2020년 7월 만료) (buggio.shop)
